@@ -1,17 +1,17 @@
-_id: req_00a26efe9d0048a585c400814ec932a9
+_id: req_b5c6528452d442a3bec284ef6a44c9ae
 type: Request
 parentId: wrk_e6bb8043287b47148f0eda2a7d5f3f8e
-modified: 1618950113933
-created: 1618907604589
-url: https://api.imgflip.com/get_memes
-name: My Request
+modified: 1618950140543
+created: 1618950131252
+url: https://www.yahoo.com
+name: KTest
 description: ""
 method: GET
 body: {}
 parameters: []
 headers: []
 authentication: {}
-metaSortKey: -1618907604589
+metaSortKey: -1618950131252
 isPrivate: false
 settingStoreCookies: true
 settingSendCookies: true
