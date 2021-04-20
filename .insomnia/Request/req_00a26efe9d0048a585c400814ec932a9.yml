@@ -1,9 +1,9 @@
 _id: req_00a26efe9d0048a585c400814ec932a9
 type: Request
 parentId: wrk_e6bb8043287b47148f0eda2a7d5f3f8e
-modified: 1618908286463
+modified: 1618908575673
 created: 1618907604589
-url: https://api.imgflip.com/get_memes
+url: https://api.imgflip.com/get_me
 name: My Request
 description: ""
 method: GET
